@@ -1,10 +1,10 @@
 import "package:flutter/material.dart";
 
 void main() {
-  runApp(new testingPerpose());
+  runApp(new Testing());
 }
 
-class testingPerpose extends StatelessWidget{
+class Testing extends StatelessWidget{
   @override
   Widget build(BuildContext context){
     return new MaterialApp(
